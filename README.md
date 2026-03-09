@@ -1,73 +1,33 @@
-# Welcome to your Lovable project
+# Calibur Volt
 
-## Project info
+Calibur Volt is a comprehensive solution designed to accelerate the development process of modern applications. It provides a robust framework, powerful tools, and essential features to help developers achieve their goals with efficiency and ease.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## Features
+- **Fast Performance:** Optimized for speed and efficiency, ensuring that your applications run smoothly.
+- **Scalable Architecture:** Built to handle varying workloads, from small projects to enterprise-level applications.
+- **Extensive Documentation:** Comprehensive user guides and API documentation to assist developers at all skill levels.
 
-## How can I edit this code?
+## Getting Started
+To get started with Calibur Volt, follow the installation instructions:
 
-There are several ways of editing your application.
+1. **Clone the repository:**  
+   `git clone https://github.com/CaliburVolt/caliburvolt.git`
+2. **Install dependencies:**  
+   `cd caliburvolt && npm install`
+3. **Run the application:**  
+   `npm start`
 
-**Use Lovable**
+## Contributions
+We welcome contributions from the community! Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## License
+This project is licensed under the MIT License.
 
-Changes made via Lovable will be committed automatically to this repo.
+For more information, visit our [website](https://caliburvolt.com). 
 
-**Use your preferred IDE**
+## Contact
+For questions or feedback, reach out to us at support@caliburvolt.com.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+**Join our community and contribute to the future of development with Calibur Volt!**
